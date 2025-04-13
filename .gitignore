@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+merged_output.pdf
+*.DS_Store
+.env
